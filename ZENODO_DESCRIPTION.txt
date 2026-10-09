@@ -1,0 +1,30 @@
+TITLE
+Data for “Controlling water–hydroxyl resonance on dual-atom site catalysts”
+
+CREATORS
+Ba Long Nguyen (https://orcid.org/0009-0003-7682-9851) — Institute of Chemistry, University of Tartu, Estonia
+Emmanouil Pervolarakis (https://orcid.org/0000-0001-7813-9553) — Center for High Entropy Alloy Catalysis, Department of Chemistry, University of Copenhagen, Denmark
+Marcus Frahm Nygaard (https://orcid.org/0000-0002-8382-4632) — Center for High Entropy Alloy Catalysis, Department of Chemistry, University of Copenhagen, Denmark
+Martin Lillebro Lundquist (https://orcid.org/0000-0003-4209-2196) — Center for High Entropy Alloy Catalysis, Department of Chemistry, University of Copenhagen, Denmark
+Vladislav Ivanistsev (https://orcid.org/0000-0003-4517-0540) — Department of Chemistry, University of Latvia, Latvia
+Nadezda Kongi (https://orcid.org/0000-0001-9680-0421) — Institute of Chemistry, University of Tartu, Estonia
+Jan Rossmeisl (https://orcid.org/0000-0001-7749-6567) — Center for High Entropy Alloy Catalysis, Department of Chemistry, University of Copenhagen, Denmark
+
+DESCRIPTION
+Data supporting “Controlling water–hydroxyl resonance on dual-atom site catalysts.” The manuscript analyzes 1,659 intact OH–H₂O co-adsorption structures and 154 single-water reference structures, with available corresponding bare catalysts. The systems contain Cr–Cu metal centers, B1/B2 base fragments, N/O/S bridges, and A1, A2, A4, A5, A6, or A9 acid fragments.
+
+The release provides RPBE-D4-optimized geometries, frozen-fragment interaction-energy components, filtering metadata, available Bader net charges and atomic magnetic moments, and standard ASE calculator results where present. Each dataset is supplied in equivalent ASE SQLite (.db) and ASE JSON (.json) formats. README and data-dictionary files describe methods, provenance, units, atom indexing, cross-file identifiers, and missing-data handling. The accompanying resonance_analysis.ipynb performs the analysis and generates Figures 2–4 and SI2–SI7; Figure 1 and SI1 are prepared separately.
+
+LICENSE
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+RELATED PAPER DOI
+Not yet available; to be added after publication. The dataset has its own Zenodo DOI.
+
+KEYWORDS
+Adsorbate resonance; dual-atom site catalysts; water–hydroxyl coadsorption; hydrogen bonding; RPBE-D4; density functional theory; GPAW; ASE
+
+CONTACT
+vladislav.ivanistsev@lu.lv; nadezda.kongi@ut.ee; jan.rossmeisl@chem.ku.dk
+
